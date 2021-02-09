@@ -3,6 +3,8 @@
 In order to fit the needs for the first SageMaker Deployment Session of the ML_Community, this repo is a partial copy of https://github.com/udacity/sagemaker-deployment.git.
 
 
+
+
 # Machine Learning Deployment using AWS SageMaker
 
 Code and associated files 
@@ -43,7 +45,7 @@ Click on the 'new' dropdown menu and select 'terminal'. By default, the working 
 
 ```bash
 cd SageMaker
-git clone https://github.com/udacity/sagemaker-deployment.git
+git clone https://github.com/Doc-Ix/MLCommunity_SageMaker_I.git
 exit
 ```
 
